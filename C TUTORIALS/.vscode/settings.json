@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "PANCARD.C": "cpp",
+        "FISH.C": "cpp",
+        "BIL.C": "cpp",
+        "RESULT.C": "cpp"
+    }
+}
